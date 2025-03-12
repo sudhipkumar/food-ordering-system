@@ -1,1 +1,1 @@
-Creating This Page using Html css And Javascript Where many users can order foods using these website
+Creating This Food Ordering System using HTML CSS and Javascript where multiple users can order Food Easily
