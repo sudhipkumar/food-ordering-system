@@ -42,6 +42,12 @@ const products = [
     image:
       "https://img.freepik.com/free-photo/flat-lay-fish-chips-chopping-board_23-2148776041.jpg?ga=GA1.1.39799843.1733582581&semt=ais_hybrid",
   },
+  {
+    name: "Chocolate cake",
+    price: 310,
+    image:
+      "https://img.freepik.com/free-photo/front-view-sweet-chocolate-cake-stand_23-2148834057.jpg?t=st=1741880195~exp=1741883795~hmac=8c8d73323c38cac4ac44f72ff7331ec773d23143ad6a587919d018f51cce1687&w=740",
+  },
 ];
 
 const productList = document.getElementById("product-list");
