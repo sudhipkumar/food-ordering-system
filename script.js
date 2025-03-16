@@ -20,7 +20,7 @@ const products = [
   },
   {
     name: "Sushi",
-    price: 390,
+    price: 397,
     image:
       "https://img.freepik.com/free-photo/maki-sushi-isolated-white_2829-5653.jpg?t=st=1741754787~exp=1741758387~hmac=7388026f09b8a49e57e8bff13d54b673ab30673c3f88865d0ce08709372718e5&w=740",
   },
@@ -32,19 +32,19 @@ const products = [
   },
   {
     name: "Fried Chicken",
-    price: 280,
+    price: 283,
     image:
       "https://img.freepik.com/premium-photo/fried-chicken-legs-with-lemon-parsley_266870-45.jpg?w=740",
   },
   {
     name: "Fish and chips",
-    price: 330,
+    price: 341,
     image:
       "https://img.freepik.com/free-photo/flat-lay-fish-chips-chopping-board_23-2148776041.jpg?ga=GA1.1.39799843.1733582581&semt=ais_hybrid",
   },
   {
     name: "Chocolate cake",
-    price: 310,
+    price: 325,
     image:
       "https://img.freepik.com/free-photo/front-view-sweet-chocolate-cake-stand_23-2148834057.jpg?t=st=1741880195~exp=1741883795~hmac=8c8d73323c38cac4ac44f72ff7331ec773d23143ad6a587919d018f51cce1687&w=740",
   },
